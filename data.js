@@ -221,8 +221,8 @@ const PROFILES = [
   },
   {
     id: '1074359366699986955',
-    slug: 'Don',
-    username: 'Don',
+    slug: 'Yels',
+    username: 'Yels',
     bio: '',
     background: 'backgrounds/users/mybg.mp4',
     socials: {},
