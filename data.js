@@ -246,10 +246,11 @@ const PROFILES = [
     slug: 'Janine',
     username: 'Janine',
     bio: '',
-    background: 'backgrounds/users/mybg.mp4',
-    socials: {},
-    music: 'music/users/all.mp3',
-    musicMeta: {title: '', artist: ''},
+    background: 'backgrounds/users/janine.mp4',
+    socials: {      youtube: {url: 'https://www.youtube.com/@JanineRaee', logo: 'icons/youtube.png'},
+},
+    music: 'music/users/janine.mp3',
+    musicMeta: {title: 'Love Me', artist: 'JMSN'},
     views: 0
   },
   {
